@@ -2,14 +2,14 @@
 
 one:
   name: MyString
-  ddress: MyString
+  address: MyString
   description: MyText
   price_per_night: 1
   number_of_guests: 1
 
 two:
   name: MyString
-  ddress: MyString
+  address: MyString
   description: MyText
   price_per_night: 1
   number_of_guests: 1
