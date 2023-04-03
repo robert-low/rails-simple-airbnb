@@ -1,2 +1,6 @@
 <p><%= link_to 'Simple Airbnb', root_path %></p>
 <p><%= link_to 'Add flat', new_flat_path  %></p>
+<form class="">
+  <input class="" name="query" type="search" placeholder="Search" aria-label="Search" value="<%= params[:query] %>">
+  <button class="" type="submit">Search</button>
+</form>
